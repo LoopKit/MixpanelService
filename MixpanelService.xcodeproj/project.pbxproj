@@ -20,7 +20,6 @@
 		84F28B632A25CCF10080127C /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F28B612A25CCE80080127C /* LocalizedString.swift */; };
 		84F28B642A25CCF20080127C /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F28B612A25CCE80080127C /* LocalizedString.swift */; };
 		84F28B662A25CD0F0080127C /* MixpanelService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F28B652A25CD0F0080127C /* MixpanelService.swift */; };
-		84F28B682A25D1950080127C /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84F28B672A25D1950080127C /* Localizable.strings */; };
 		84F28B6B2A25D1D80080127C /* IdentifiableClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F28B6A2A25D1D80080127C /* IdentifiableClass.swift */; };
 		84F28B6D2A25D1F40080127C /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F28B6C2A25D1F40080127C /* UIColor.swift */; };
 		84F28B6F2A25D20E0080127C /* NibLoadable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F28B6E2A25D20E0080127C /* NibLoadable.swift */; };
@@ -82,7 +81,6 @@
 		84F28B5C2A25CCB00080127C /* OSLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OSLog.swift; sourceTree = "<group>"; };
 		84F28B612A25CCE80080127C /* LocalizedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizedString.swift; sourceTree = "<group>"; };
 		84F28B652A25CD0F0080127C /* MixpanelService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MixpanelService.swift; sourceTree = "<group>"; };
-		84F28B672A25D1950080127C /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		84F28B6A2A25D1D80080127C /* IdentifiableClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentifiableClass.swift; sourceTree = "<group>"; };
 		84F28B6C2A25D1F40080127C /* UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
 		84F28B6E2A25D20E0080127C /* NibLoadable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NibLoadable.swift; sourceTree = "<group>"; };
@@ -163,7 +161,6 @@
 			children = (
 				84F28B1E2A25CB350080127C /* MixpanelServiceKit.h */,
 				84F28B652A25CD0F0080127C /* MixpanelService.swift */,
-				84F28B672A25D1950080127C /* Localizable.strings */,
 			);
 			path = MixpanelServiceKit;
 			sourceTree = "<group>";
@@ -363,7 +360,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84F28B682A25D1950080127C /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
