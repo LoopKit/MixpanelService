@@ -2,8 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.loopkit.Loop.ServiceCategory</key>
+	<string>Analytics</string>
 	<key>com.loopkit.Loop.ServiceDisplayName</key>
-	<string>Mixpanel Service</string>
+	<string>Mixpanel</string>
 	<key>com.loopkit.Loop.ServiceIdentifier</key>
 	<string>MixpanelService</string>
 </dict>
